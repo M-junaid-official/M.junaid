@@ -2,6 +2,6 @@
 Using namespace std;
 Int min()
 {
-   Cout<<“hello world”;
+   Cout<<“hello world”<<endl;
 Return 0;
 }
