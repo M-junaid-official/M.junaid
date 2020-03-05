@@ -1,0 +1,7 @@
+#include<iostream>
+Using namespace std;
+Int min()
+{
+   Cout<<“hello world”;
+Return 0;
+}
